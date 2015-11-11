@@ -1,0 +1,23 @@
+name: Shortrun.ca
+favicon: null
+layout_spectrum: 0.34250968298874795
+typography_spectrum: 0.3368184301070869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41822198242880404
+  lightness: 0.5692487950436771
+  saturation: 0.9313342047389597
+  rhythmicContrast: 0.0043498072773218155
+purpose: []
